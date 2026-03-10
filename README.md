@@ -1,5 +1,9 @@
 # MLB Pitch Type Classification ⚾
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Status](https://img.shields.io/badge/status-academic%20project-green)
+
 Supervised machine learning project for classifying MLB pitch types using Statcast postseason pitch-by-pitch data.
 
 ---
@@ -57,6 +61,15 @@ The following machine learning models were implemented and evaluated:
 - Support Vector Machine (SVM)
 - Logistic Regression
 - Decision Tree Classifier
+
+## Model Performance
+
+| Model | Accuracy |
+|------|------|
+| K-Nearest Neighbors | 0.71 |
+| Logistic Regression | 0.74 |
+| Decision Tree | 0.69 |
+| Support Vector Machine | 0.76 |
 
 ---
 
