@@ -16,6 +16,12 @@ The project includes data preprocessing, feature selection, model training, and 
 
 ---
 
+## Key Objective
+
+The main objective of this project is to evaluate the performance of different supervised machine learning models in predicting MLB pitch types using Statcast postseason data.
+
+---
+
 ## Dataset
 
 The dataset contains pitch-by-pitch information from MLB postseason games. Each row represents a single pitch and includes features related to:
@@ -62,6 +68,7 @@ The following machine learning models were implemented and evaluated:
 - Logistic Regression
 - Decision Tree Classifier
 
+---
 ## Model Performance
 
 | Model | Accuracy |
@@ -74,7 +81,7 @@ The following machine learning models were implemented and evaluated:
 ---
 
 ## Project Structure
-```
+```text
 mlb-pitch-type-classification
 │
 ├── data/
@@ -128,6 +135,8 @@ Performance metrics such as accuracy and classification reports were used to com
 
 The results show how different machine learning algorithms perform when classifying pitch types based on pitch characteristics and game context.
 
+Among the evaluated models, **Support Vector Machine (SVM)** achieved the best performance with an accuracy of **0.76**, making it the strongest classifier in this comparison.
+
 ---
 
 ## Documentation
@@ -140,6 +149,8 @@ Additional project documentation is available in the **docs/** folder:
 ---
 
 ## Authors
+
+This project was developed as part of a university assignment by:
 
 - Diego José García Callejas
 - Héctor Fernández Cano
