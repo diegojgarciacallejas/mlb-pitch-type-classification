@@ -141,10 +141,8 @@ Among the evaluated models, **Support Vector Machine (SVM)** achieved the best p
 
 ## Documentation
 
-Additional project documentation is available in the **docs/** folder:
-
-- Project report (`Memoria_AA.pdf`)
-- Presentation slides (`Presentacion_AA.pdf`)
+> 📄 **Project Report:** [View Memoria_AA.pdf](docs/Memoria_AA.pdf)  
+> 📊 **Presentation Slides:** [View Presentacion_AA.pdf](docs/Presentacion_AA.pdf)
 
 ---
 
