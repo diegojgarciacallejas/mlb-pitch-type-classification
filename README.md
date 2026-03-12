@@ -121,6 +121,9 @@ Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+--- 
+
 ## Running the Notebook
 Launch Jupyter Notebook and open:
 ```bash
