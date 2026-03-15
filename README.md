@@ -1,8 +1,11 @@
 # MLB Pitch Type Classification ⚾
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
-![Status](https://img.shields.io/badge/status-academic%20project-green)
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.x-F7931E?logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![Best Model](https://img.shields.io/badge/Best%20Model-SVM%200.76-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Supervised machine learning project for classifying MLB pitch types using Statcast postseason pitch-by-pitch data.
 
